@@ -27,11 +27,10 @@
 
 ---
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img src="https://github.com/user-attachments/assets/11fa4972-fd61-4398-ab66-ca9e6d36f224" width="150" />
   <img src="https://github.com/user-attachments/assets/6511fdfc-93d0-4db6-a1c0-df98722e4da3" width="150" />
   <img src="https://github.com/user-attachments/assets/eb00880d-6c3e-40a8-b75e-b6b6939dd77b" width="150" />
   <img src="https://github.com/user-attachments/assets/f832c7ed-5e92-4277-be7c-792ca080f081" width="150" />
-  <img src="https://github.com/user-attachments/assets/ca0eca03-3beb-42d2-af55-6a3e0dca8ab9" width="150" />
 </div>
 
